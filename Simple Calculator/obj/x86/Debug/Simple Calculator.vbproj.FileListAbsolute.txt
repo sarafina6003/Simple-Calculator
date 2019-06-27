@@ -1,0 +1,9 @@
+C:\Users\NYAWIRA\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\NYAWIRA\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\NYAWIRA\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.xml
+C:\Users\NYAWIRA\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\NYAWIRA\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\NYAWIRA\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.vbproj.GenerateResource.Cache
+C:\Users\NYAWIRA\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.exe
+C:\Users\NYAWIRA\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.xml
+C:\Users\NYAWIRA\Documents\Visual Studio 2010\Projects\Simple Calculator\Simple Calculator\obj\x86\Debug\Simple Calculator.pdb
